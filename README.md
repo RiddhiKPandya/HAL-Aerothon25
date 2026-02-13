@@ -2,6 +2,9 @@ Team SkyLens- EO/IR Sensor Video Image Classification & Identification System â€
 
 This project implements an object detection pipeline using **YOLOv8** and **VisDrone** to process aerial EO (Electro-Optical) and IR (Infrared) videos. A custom dataset with **35+ object classes** was created, and the system estimates **drone-to-object height and distance** for accurate post-mission surveillance analysis.
 
+## Demo
+Watch the demo video: [EO/IR Sensor Video Image Classification & Identification System â€“ HAL Aerothon '25](https://youtu.be/hoRt_284UQU)
+
 ## Features
 
 - Trained YOLOv8 and VisDrone model on custom EO/IR dataset
