@@ -9,7 +9,7 @@ Built using YOLOv8 and trained on VisDrone + a custom aerial dataset with 35+ ob
 ---
 
 ## Watch demo here
-[![EO/IR Sensor Video Thumbnail](https://img.youtube.com/vi/hoRt_284UQU/0.jpg)](https://youtu.be/hoRt_284UQU)
+
 
 ---
 
