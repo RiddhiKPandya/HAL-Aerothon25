@@ -9,7 +9,10 @@ Built using YOLOv8 and trained on VisDrone + a custom aerial dataset with 35+ ob
 ---
 
 ## Watch demo here
-https://github.com/user-attachments/assets/aa5ae270-2a8f-427f-8fab-4b56cf5f7186
+
+https://github.com/user-attachments/assets/8046b5cc-9aa5-495f-9748-9d17bce0fae3
+
+
 
 
 
